@@ -15,4 +15,6 @@
 
 'asdfasdfasdfasdf';
 
-var foo = 'aasdf';
+const foo = 'aasdf';
+
+console.info(foo);
