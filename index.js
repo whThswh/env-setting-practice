@@ -11,6 +11,8 @@
 // // 2. prettier run(terminal)
 
 // eslint setting practice
-const foo = 'Hello World';
+'123123';
 
-console.info(foo);
+'asdfasdfasdfasdf';
+
+var foo = 'aasdf';
