@@ -11,8 +11,6 @@
 // // 2. prettier run(terminal)
 
 // eslint setting practice
-'123123';
-
 'asdfasdfasdfasdf';
 
 const foo = 'aasdf';
