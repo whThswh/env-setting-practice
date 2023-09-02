@@ -1,3 +1,14 @@
-const isTrue = 1 === '1';
+// TEST : ESLint + Prettier + Husky + Lint-staged
+'asdfasdfasdfasdf';
 
-console.info(isTrue);
+const foo = 'aasdf';
+
+const num1 = '1';
+
+const isTrue = x => {
+  return x === num1;
+};
+
+console.info(isTrue(1));
+
+console.info(foo);
