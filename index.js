@@ -1,18 +1,14 @@
-// // prettier setting practice
-// var foo = x => {
-//   console.log('foo');
-// };
-
-// ('asdffdf');
-
-// ('12313141234');
-
-// // 1. node_modules/prettier
-// // 2. prettier run(terminal)
-
-// eslint setting practice
+// TEST : ESLint + Prettier + Husky + Lint-staged
 'asdfasdfasdfasdf';
 
 const foo = 'aasdf';
+
+const num1 = '1';
+
+const isTrue = x => {
+  return x === num1;
+};
+
+console.info(isTrue(1));
 
 console.info(foo);
